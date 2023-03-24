@@ -5,4 +5,4 @@ The purpose of this analysis was to develop a linear regression model to predict
 
 The model was significant and able to predict new contract CapAPY. While Rushing EPA and Total Touchdowns during the contract year were significant predictors, their regression coefficients paled in comparison to Target Share. Additionally, Receiving EPA was also a significant predictor and had an identical regression coefficient to Rushing EPA. These reults demonstrate that RBs who have greater passing-game outputs are more valuable to teams than RBs who only contribute to the running-game. Future work should look at how these trends change(d) over time.
 
-NOTES: I ran this in Spyder through Anaconda. The figures will save as PNG files in the directory you run this code in.
+NOTE: I ran this in Spyder through Anaconda. The figures will save as PNG files in the directory you run this code in.
